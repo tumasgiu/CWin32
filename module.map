@@ -1,0 +1,4 @@
+module CWin32 {
+    header "CWin32.h"
+    export *
+}
